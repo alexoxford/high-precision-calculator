@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">High Precision Calculator</string>
+
+    <string name="button_up">\u2191</string>
+    <string name="button_down">\u2193</string>
+    <string name="button_equals">=</string>
+    <string name="button_back">\u232B</string>
+    <string name="button_clear">Clear</string>
+    <string name="button_ans">Ans</string>
+
+    <string name="button_0">0</string>
+    <string name="button_1">1</string>
+    <string name="button_2">2</string>
+    <string name="button_3">3</string>
+    <string name="button_4">4</string>
+    <string name="button_5">5</string>
+    <string name="button_6">6</string>
+    <string name="button_7">7</string>
+    <string name="button_8">8</string>
+    <string name="button_9">9</string>
+    <string name="button_plus">+</string>
+    <string name="button_minus">-</string>
+    <string name="button_mult">*</string>
+    <string name="button_div">/</string>
+    <string name="button_left_paren">(</string>
+    <string name="button_right_paren">)</string>
+    <string name="button_period">.</string>
+    <string name="button_comma">,</string>
+    <string name="button_caret">^</string>
+    <string name="button_e">e</string>
+    <string name="button_sqr">x\u00B2</string>
+    <string name="button_sqrt">\u221A</string>
+    <string name="button_exp">e^</string>
+    <string name="button_pi">\u03C0</string>
+    <string name="button_c">c</string>
+    <string name="button_gamma">\u213D</string>
+</resources>
